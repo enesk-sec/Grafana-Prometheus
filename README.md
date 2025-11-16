@@ -11,6 +11,9 @@ This project contains a monitoring dashboard created using Grafana and Prometheu
 - Memory usage and uptime metrics
 - Multiple panel types: gauge, stat, time series, pie chart
 
+## Preview
+![Dashboard](screenshots/dashboard_full.png)
+
 ## Dashboard JSON
 The JSON file is included so it can be imported directly:
 - `dashboard.json`
