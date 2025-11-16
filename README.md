@@ -12,7 +12,7 @@ This project contains a monitoring dashboard created using Grafana and Prometheu
 - Multiple panel types: gauge, stat, time series, pie chart
 
 ## Preview
-![Dashboard](screenshots/Prometheus&Grafana.png)
+![Dashboard](Prometheus&Grafana.png)
 
 ## Dashboard JSON
 The JSON file is included so it can be imported directly:
