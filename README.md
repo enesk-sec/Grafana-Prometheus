@@ -27,4 +27,3 @@ The JSON file is included so it can be imported directly:
 ## How to import
 1. Grafana → Dashboards → Import
 2. Upload `dashboard.json`
-3. Select Prometheus datasource
